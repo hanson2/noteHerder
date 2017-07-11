@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import base, { auth } from './base'
+import base, { auth } from './base.example.js'
 
 import './App.css'
 import Main from './Main'
